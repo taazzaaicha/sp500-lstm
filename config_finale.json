@@ -1,0 +1,1 @@
+{"type": "LSTM", "unites": 32, "dropout": 0.4, "lr": 0.001, "fenetre": 12}
